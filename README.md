@@ -5,7 +5,9 @@
    - NASA World view 활용예시2(동영상)  https://www.youtube.com/watch?v=_qBkcHmTMhA
 #
 2. 참고동영상
-   - 해양이 발견된 외계행성 엔셀라두스(출처 : 우주먼지의 현자타임즈 채널)    https://youtu.be/A5wOu4nfc1c?t=55
+   - 해양이 발견된 목성의 위성 유로파(출처 : 우주먼지의 현자타임즈 채널), 우주에서의 해양무인체계
+     투입의 서막이 열리다.    https://www.youtube.com/watch?v=NHaqtJ3jXbY
+   - 해양이 발견된 토성의 위성 엔셀라두스(출처 : 우주먼지의 현자타임즈 채널)    https://youtu.be/A5wOu4nfc1c?t=55
    - SRTM Dgital Elevation Model의 탄생 과정   https://www.youtube.com/watch?v=byMqUgQ-PeU
    - 위성으로 어떻게 해저지형정보를 알 수 있을까?   https://www.youtube.com/watch?v=HZVFsvjGx70
    - ESA Ocean & Space  https://www.youtube.com/watch?v=-WXM9ulaBng
