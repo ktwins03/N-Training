@@ -1,4 +1,4 @@
-# N-Space Training Exercise for reference
+# N-Space Training reference for exercise
 
 1. 위성영상 활용예시
    - NASA World view 활용예시1(동영상)  https://www.youtube.com/watch?v=c-no5rRqQIg
