@@ -1,32 +1,6 @@
 # N-Space Training reference for exercise
 
-1. 위성영상 활용예시
-   - NASA World view 활용예시1(동영상)  https://www.youtube.com/watch?v=c-no5rRqQIg
-   - NASA World view 활용예시2(동영상)  https://www.youtube.com/watch?v=_qBkcHmTMhA
-#
-2. 참고동영상
-   - SRTM Dgital Elevation Model의 탄생 과정   https://www.youtube.com/watch?v=byMqUgQ-PeU
-   - 위성으로 어떻게 해저지형정보를 알 수 있을까?   https://www.youtube.com/watch?v=HZVFsvjGx70
-   - ESA의 해양연구 관련 연수과정 소개 ESA’s Ocean Training Course   https://www.youtube.com/watch?v=tNqR3BWoMWo
-   - NASA의 2024년 위성 기반 극지관찰 결과, 해빙이 사라진다.   https://www.youtube.com/watch?v=ybtI5mRE8qQ
-   - NASA의 초분광위성 PACE는 바다를 먼저 탐구한다.    https://www.youtube.com/watch?v=VwVL0UBVVLA
-   - Copernicus Ocean State Report 8 and Summary   https://www.youtube.com/watch?v=U704agaWRr4
-   - 인도정부의 수중영역인식(UDA) 관련 영상   https://www.youtube.com/watch?v=zi0SW86QQUc
-   - [ICEYE] How To Detect Suspicious Maritime Activities With SAR Satellites  https://www.youtube.com/watch?v=pgP1XNdq-TE
-   - ESA Ocean & Space  https://www.youtube.com/watch?v=-WXM9ulaBng
-   - NASA는 왜 그토록 바다에 집착해왔을까? 유로파 클리퍼로 연결된다.   https://www.youtube.com/watch?v=q88fSdGMbys   
-   - 해양이 발견된 목성의 위성 유로파(출처 : 우주먼지의 현자타임즈 채널), 우주에서의 해양무인체계
-     투입의 서막이 열리다.    https://www.youtube.com/watch?v=NHaqtJ3jXbY
-   - 해양이 발견된 토성의 위성 엔셀라두스(출처 : 우주먼지의 현자타임즈 채널)    https://youtu.be/A5wOu4nfc1c?t=55
-#
-3. 심우주 관측자료가 어떻게 공개될까?
-   - NASA solar system trek  https://trek.nasa.gov/#
-   - NASA MARS rover imagery  https://mars.nasa.gov/mars2020/multimedia/raw-images/
-   - NASA Astrophysics   https://science.nasa.gov/astrophysics/ 
-   - NASA Astrobioloogy  https://astrobiology.nasa.gov/
-   - USGS Astrogeology Science Center   https://www.usgs.gov/centers/astrogeology-science-center
- #
- 4. 기타 이슈탐험
+1. 이슈탐험
    - 북극해 전반 Sentinel-1, AMSR-2 Copernicus my ocean 2025년7월4일  https://data.marine.copernicus.eu/viewer/expert?view=viewer&crs=epsg%3A32661&t=1751630400000&z=0&center=-105.25867400007925%2C80.5146014763691&zoom=11.303519828943145&layers=H4sIADNDdmgAAxXNTwuCMByH8ffyOxtu4mk3MSGhP6J2kIgva64UpovNQya_9_z68MDntpCdOu1Sa13rSSxrQEbO2uUtCaqyJE8zJGWK4tAgudYXHGOcmnNZg3EOFsWhGvTgYR9_53tIp.DuZoxugolR8D2ibeI89L2igL752OoPCc4C6v8EDNuysa9KSaNJPKXxer3.ANiLp2eYAAAA&basemap=bathymetry&objv2=H4sIADNDdmgAA72UTW.bMAyG.4tOG2AZkihKVM.DigIFWmzHICj8IXsGEttznGJB0P8_ysm2NhmGnXqy9ZIi_ZCEVkfR1eJGPA1WZKKJxbyf4k7crIQHiqCjkrGqKmkJUIayqWWplDIByFhSYp2JdirGb3zjKJ5abdN3W4z3xSFOd0vgjeLAi9PXMVaL9vyh7nbzR9Z3_3IX50.d9kv8.vAcp6mrU.Z_v9n8Mj4WbbyPfTsvSV6yc70p1wufxq5.aBr245olKMyD8_hReTDWmExqT7lC8t4RonXkcf2S.YbGC_imoZo0FNKVVktbBi.Lqq5kCRGDqoyJTbyChneEhito53OvCZkRA3hkYuNywGACeeUUM4fXxO6SuCRloSRpNTJxQ4UMNShZEZVKe1MVZX1FjO9IjFfEJmBOQYNxQVkTXMikAZeTNrykLgDDA71mDm_Zj2I_jJEtn09aKjwO2zhPh8R1Nj4Om0M79GyshmGqu76Yl9urldSO18zzitnMq1wpVLTOWEbKwTlwLOscFRDCojs_ASjwmYecq0TjTnrIucNIIfl7B2BOMoexIaBOMmgMhCf9OuuaMcU4DWOc5i6V94a5L7aJ5Ok2QUxsFXHctTfcOKe5qxdTNfo.p.qvkXL7upT0KKaib.lnxYSeh_X42VAq0x41KkXLiQvYFj.u_mqz33XP7DxP_5im.beVOAc23v5ZDi45ucd_U0xtvD3DpCgXD4MD5E4GRcF7BK11Zk1O6Dw4o7ggDfwsrH8CPY20VQ0FAAA-&showToponyms=1
    - 북극 척치해 일대 Sentinel-2 Copernicus browser 2025년 2월27일   https://browser.dataspace.copernicus.eu/?zoom=8&lat=71.21637&lng=-162.58227&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BIyAnJ2xyxSPw93DUNM2V6EkTDO4uKRvMwHfUyTOqE1VGOsDAPXmB2er%2FDwlqPrUdSf6OgThZjRwPad%2FKGvXOCUV5ucQeqUTza0yYyevGaTYkLlxnK5vrq&datasetId=S2_L2A_CDAS&fromTime=2025-02-27T00%3A00%3A00.000Z&toTime=2025-02-27T23%3A59%3A59.999Z&layerId=6-SWIR&demSource3D=%22MAPZEN%22&cloudCoverage=11&dateMode=SINGLE
    - 북극 척치해 일대 Sentinel-2 Copernicus browser 2024년 9월30일   https://browser.dataspace.copernicus.eu/?zoom=8&lat=71.21696&lng=-162.58118&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18xCZOpgZ7pDITbEClq5QIlnfnza3t%2BTLs%2FCQIeFdmlbGyW9SBSMB%2BB6JYS7bM0dmVW5mc4xX749tMDmQgL9DZzdkPSbXCW4TMtmXg62WM0lgJ11MhjAUV8&datasetId=S2_L2A_CDAS&fromTime=2024-09-30T00%3A00%3A00.000Z&toTime=2024-09-30T23%3A59%3A59.999Z&layerId=6-SWIR&demSource3D=%22MAPZEN%22&cloudCoverage=11&dateMode=SINGLE
