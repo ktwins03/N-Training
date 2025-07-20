@@ -3,12 +3,16 @@
 1. 주요 이슈들
 - Google earth engine : Landsat 인공위성영상 Timelaps로 내가 태어난 고향의 발전상을 관찰해보자.
   https://earthengine.google.com/timelapse/
+  
 - NASA World view : 정지궤도위성영상 체험하기(Himawari, GOES-W, GOES-E)
   https://worldview.earthdata.nasa.gov/?v=-251.3105758334586,-98.00029526812071,131.2333374082531,88.04156878888361&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,GMI_Brightness_Temp_Asc,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&tr=geostationary&t=2021-09-30-T00%3A00%3A00Z
+  
 - NASA World view : 우크라이나 전쟁으로 인한 도시 불빛 변화 관찰하기
 https://worldview.earthdata.nasa.gov/?v=26.26686199199959,45.59128769311306,41.924073973085086,53.205830238601905&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_SNPP_DayNightBand_AtSensor_M15,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&l1=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_SNPP_DayNightBand_AtSensor_M15,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg1=false&ca=true&cv=38&t=2021-08-01-T01%3A07%3A25Z&t1=2022-05-10-T01%3A07%3A25Z
+
 - NASA World view : 제주 인근 바다의 이상저염분수 현상 관찰하기(2024년 8월 2일)
 https://worldview.earthdata.nasa.gov/?v=110.87756553005758,25.452737734635583,143.2827444340522,41.212287631304854&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,SMAP_L3_Sea_Surface_Salinity_CAP_8Day_RunningMean(palette=rainbow_5),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2024-08-02-T01%3A14%3A23Z
+
 - 2024년 브라질 대홍수에 따른 피해(침수구역 등) 탐색
 
 IMERG 극한강수 변화 : https://worldview.earthdata.nasa.gov/?v=-73.88293196700761,-41.065905986321056,-32.15047161710986,-20.77023679271844&z=4&i=5&ics=true&ici=5&icd=30&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,IMERG_Precipitation_Rate_30min,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2024-04-29-T01%3A00%3A18Z
@@ -20,6 +24,8 @@ https://browser.dataspace.copernicus.eu/?zoom=11&lat=-30.00755&lng=-51.16402&the
 
 극한호우 이후
 https://browser.dataspace.copernicus.eu/?zoom=8&lat=-29.83812&lng=-50.57007&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FsJ89yi0iE1m%2BsjPTQvc1Km3BJNMKbUc1G5lYUT7TNc5ov%2F%2FkIO35pKmjvANC0BaQGadBXsknZC5fxzdyeDiz%2BHydsh3li66AkZIr2gUqI8KQlhFNN4U0z&datasetId=S2_L2A_CDAS&fromTime=2024-05-08T00%3A00%3A00.000Z&toTime=2024-05-08T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE
+
+
       
 2. 기타 이슈탐험
 - 북극해 전반 Sentinel-1, AMSR-2 Copernicus my ocean 2025년7월4일  https://data.marine.copernicus.eu/viewer/expert?view=viewer&crs=epsg%3A32661&t=1751630400000&z=0&center=-105.25867400007925%2C80.5146014763691&zoom=11.303519828943145&layers=H4sIADNDdmgAAxXNTwuCMByH8ffyOxtu4mk3MSGhP6J2kIgva64UpovNQya_9_z68MDntpCdOu1Sa13rSSxrQEbO2uUtCaqyJE8zJGWK4tAgudYXHGOcmnNZg3EOFsWhGvTgYR9_53tIp.DuZoxugolR8D2ibeI89L2igL752OoPCc4C6v8EDNuysa9KSaNJPKXxer3.ANiLp2eYAAAA&basemap=bathymetry&objv2=H4sIADNDdmgAA72UTW.bMAyG.4tOG2AZkihKVM.DigIFWmzHICj8IXsGEttznGJB0P8_ysm2NhmGnXqy9ZIi_ZCEVkfR1eJGPA1WZKKJxbyf4k7crIQHiqCjkrGqKmkJUIayqWWplDIByFhSYp2JdirGb3zjKJ5abdN3W4z3xSFOd0vgjeLAi9PXMVaL9vyh7nbzR9Z3_3IX50.d9kv8.vAcp6mrU.Z_v9n8Mj4WbbyPfTsvSV6yc70p1wufxq5.aBr245olKMyD8_hReTDWmExqT7lC8t4RonXkcf2S.YbGC_imoZo0FNKVVktbBi.Lqq5kCRGDqoyJTbyChneEhito53OvCZkRA3hkYuNywGACeeUUM4fXxO6SuCRloSRpNTJxQ4UMNShZEZVKe1MVZX1FjO9IjFfEJmBOQYNxQVkTXMikAZeTNrykLgDDA71mDm_Zj2I_jJEtn09aKjwO2zhPh8R1Nj4Om0M79GyshmGqu76Yl9urldSO18zzitnMq1wpVLTOWEbKwTlwLOscFRDCojs_ASjwmYecq0TjTnrIucNIIfl7B2BOMoexIaBOMmgMhCf9OuuaMcU4DWOc5i6V94a5L7aJ5Ok2QUxsFXHctTfcOKe5qxdTNfo.p.qvkXL7upT0KKaib.lnxYSeh_X42VAq0x41KkXLiQvYFj.u_mqz33XP7DxP_5im.beVOAc23v5ZDi45ucd_U0xtvD3DpCgXD4MD5E4GRcF7BK11Zk1O6Dw4o7ggDfwsrH8CPY20VQ0FAAA-&showToponyms=1
