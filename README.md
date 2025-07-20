@@ -10,11 +10,14 @@ https://worldview.earthdata.nasa.gov/?v=26.26686199199959,45.59128769311306,41.9
 - NASA World view : 제주 인근 바다의 이상저염분수 현상 관찰하기(2024년 8월 2일)
 https://worldview.earthdata.nasa.gov/?v=110.87756553005758,25.452737734635583,143.2827444340522,41.212287631304854&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,SMAP_L3_Sea_Surface_Salinity_CAP_8Day_RunningMean(palette=rainbow_5),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2024-08-02-T01%3A14%3A23Z
 - 2024년 브라질 대홍수에 따른 피해(침수구역 등) 탐색
+
 IMERG 극한강수 변화 : https://worldview.earthdata.nasa.gov/?v=-73.88293196700761,-41.065905986321056,-32.15047161710986,-20.77023679271844&z=4&i=5&ics=true&ici=5&icd=30&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,IMERG_Precipitation_Rate_30min,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&t=2024-04-29-T01%3A00%3A18Z
 
 Sentinel-2 침수구역 확인 :
+
 극한호우 이전
 https://browser.dataspace.copernicus.eu/?zoom=11&lat=-30.00755&lng=-51.16402&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BHUDaO68WhTLKaC3bvRLWT0K%2FIlTEtdG8J1G7WGO2wyRNY9X4sHzJDhAoeiyN2uvQiuq%2FmbPv4QT3QMfYcTVbYyWpOsoaJtiY5B3YCFfykFBME1x9vMmkR&datasetId=S2_L2A_CDAS&fromTime=2024-04-03T00%3A00%3A00.000Z&toTime=2024-04-03T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=19&dateMode=SINGLE
+
 극한호우 이후
 https://browser.dataspace.copernicus.eu/?zoom=8&lat=-29.83812&lng=-50.57007&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FsJ89yi0iE1m%2BsjPTQvc1Km3BJNMKbUc1G5lYUT7TNc5ov%2F%2FkIO35pKmjvANC0BaQGadBXsknZC5fxzdyeDiz%2BHydsh3li66AkZIr2gUqI8KQlhFNN4U0z&datasetId=S2_L2A_CDAS&fromTime=2024-05-08T00%3A00%3A00.000Z&toTime=2024-05-08T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE
       
